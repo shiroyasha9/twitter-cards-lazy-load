@@ -1,6 +1,6 @@
 # Twitter Like Cards using Lazy Load
 
-Twitter like cards using Lazy Load and Pagination, built for technical round.
+Twitter like cards using Lazy Load and Pagination, built for technical round. The UI is inspired by Google Keep's material UI, and is designed in such a way that it will look good in both light and dark themes.
 
 ## Live Demo
 
