@@ -17,8 +17,8 @@ Also available in screenshots folder in the repo.
   <img src="screenshots/Desktop UI - Page 5.png" width="1920"  height= "auto" title="Desktop UI - Page 5">
 </p> 
 <p align="center">
-  <img src="screenshots/Mobile UI - Page 1.png" height="1920" width="auto"  title="Mobile UI- Page 1">
+  <img src="screenshots/Mobile UI - Page 1.png" height="960" width="auto"   title="Mobile UI- Page 1">
 </p> 
 <p align="center">
-  <img src="screenshots/Mobile UI -  Page 8.png" height="1920" width="auto"  title="Mobile UI- Page 8">
+  <img src="screenshots/Mobile UI -  Page 8.png" height="960" width="auto"  title="Mobile UI- Page 8">
 </p>
